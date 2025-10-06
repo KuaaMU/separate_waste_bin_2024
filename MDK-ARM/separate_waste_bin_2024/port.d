@@ -1,0 +1,12 @@
+separate_waste_bin_2024\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+separate_waste_bin_2024\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+separate_waste_bin_2024\port.o: F:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+separate_waste_bin_2024\port.o: F:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+separate_waste_bin_2024\port.o: ../Core/Inc/FreeRTOSConfig.h
+separate_waste_bin_2024\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+separate_waste_bin_2024\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+separate_waste_bin_2024\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+separate_waste_bin_2024\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+separate_waste_bin_2024\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+separate_waste_bin_2024\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+separate_waste_bin_2024\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
